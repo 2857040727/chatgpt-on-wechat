@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
@@ -16,8 +16,7 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "ALL_GROUP"
   ],
   "group_chat_in_one_session": [
     "ChatGPT测试群"
